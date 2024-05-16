@@ -1,1 +1,2 @@
 # Phonebook
+A Phonebook statistics that is reading our clients from the file and giving us results such as: Longest calls, who ringed the most, who got the most calls, who rang the least, who got called the least and full information about the number of clients that we choose.
